@@ -1,0 +1,4 @@
+Modèle,Bonnes réponses,Accuracy,Temps moy. (s)
+DistilGPT2,1/10,0.1,0.51
+GPT2-Small,1/10,0.1,0.79
+GPT2-Medium,4/10,0.4,2.06

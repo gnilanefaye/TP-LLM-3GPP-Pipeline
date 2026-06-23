@@ -1,0 +1,31 @@
+model,question_id,question,correct_letter,predicted_letter,raw_output,is_correct,inference_time_s
+DistilGPT2,1,What is the purpose of the Nmfaf_3daDataManagement_Deconfigure service operation? [3GPP Release 18],A,,The MFAF is,False,0.94
+DistilGPT2,2,Which non-orthogonal multiple access scheme utilizes the low-complexity message passing algorithm at the receiver for user data detection?,D,A,A) NOM,False,0.52
+DistilGPT2,3,What is the diversity gain for the detection of each symbol in the Alamouti scheme?,B,A,A) 1,False,0.5
+DistilGPT2,4,When are devices required to send the GTS Request command? [IEEE 802.15.4],C,A,A) Only devices,False,0.46
+DistilGPT2,5,How does a supporting UE attach to the same core network operator from which it detached in a shared network? [3GPP Release 17],A,A,A) The SIM,True,0.71
+DistilGPT2,6,What are the extreme points of the family of Regenerating Codes?,B,A,A) MBR,False,0.38
+DistilGPT2,7,What is the typical coverage range of LPWANs (Low-Power Wide Area Networks) in urban areas?,A,,What is the typical coverage,False,0.4
+DistilGPT2,8,What does the acronym VPN stand for?,A,,What is the name of,False,0.48
+DistilGPT2,9,What are the main criteria used to validate that a sequence of numbers is random?,B,,What are the main criteria,False,0.37
+DistilGPT2,10,When can the setting of the Privacy exception list be changed? [3GPP Release 17],B,A,A) No exceptions,False,0.36
+GPT2-Small,1,What is the purpose of the Nmfaf_3daDataManagement_Deconfigure service operation? [3GPP Release 18],A,A,A) To configure,True,1.32
+GPT2-Small,2,Which non-orthogonal multiple access scheme utilizes the low-complexity message passing algorithm at the receiver for user data detection?,D,A,A) NOM,False,0.73
+GPT2-Small,3,What is the diversity gain for the detection of each symbol in the Alamouti scheme?,B,,The diversity gain for the,False,0.67
+GPT2-Small,4,When are devices required to send the GTS Request command? [IEEE 802.15.4],C,A,A) The G,False,0.68
+GPT2-Small,5,How does a supporting UE attach to the same core network operator from which it detached in a shared network? [3GPP Release 17],A,,The core network node is,False,0.94
+GPT2-Small,6,What are the extreme points of the family of Regenerating Codes?,B,A,A) The family,False,0.71
+GPT2-Small,7,What is the typical coverage range of LPWANs (Low-Power Wide Area Networks) in urban areas?,A,,The typical coverage range of,False,0.87
+GPT2-Small,8,What does the acronym VPN stand for?,A,,What is the difference between,False,0.66
+GPT2-Small,9,What are the main criteria used to validate that a sequence of numbers is random?,B,A,A) A sequence,False,0.64
+GPT2-Small,10,When can the setting of the Privacy exception list be changed? [3GPP Release 17],B,A,A) Always,False,0.72
+GPT2-Medium,1,What is the purpose of the Nmfaf_3daDataManagement_Deconfigure service operation? [3GPP Release 18],A,A,A) To configure,True,2.65
+GPT2-Medium,2,Which non-orthogonal multiple access scheme utilizes the low-complexity message passing algorithm at the receiver for user data detection?,D,A,A) NOM,False,2.0
+GPT2-Medium,3,What is the diversity gain for the detection of each symbol in the Alamouti scheme?,B,A,A) 0,False,1.67
+GPT2-Medium,4,When are devices required to send the GTS Request command? [IEEE 802.15.4],C,A,A) Only devices,False,2.15
+GPT2-Medium,5,How does a supporting UE attach to the same core network operator from which it detached in a shared network? [3GPP Release 17],A,A,A) The UE,True,2.38
+GPT2-Medium,6,What are the extreme points of the family of Regenerating Codes?,B,A,A) MBR,False,1.94
+GPT2-Medium,7,What is the typical coverage range of LPWANs (Low-Power Wide Area Networks) in urban areas?,A,A,A) A few,True,1.9
+GPT2-Medium,8,What does the acronym VPN stand for?,A,A,A) Voice Pack,True,1.86
+GPT2-Medium,9,What are the main criteria used to validate that a sequence of numbers is random?,B,A,A) Independence and,False,2.12
+GPT2-Medium,10,When can the setting of the Privacy exception list be changed? [3GPP Release 17],B,A,A) Never,False,1.9

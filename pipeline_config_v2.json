@@ -1,0 +1,6 @@
+{
+  "best_model_name": "GPT2-Medium",
+  "best_model_id": "openai-community/gpt2-medium",
+  "phase1_complete": true,
+  "metric_used": "accuracy"
+}
