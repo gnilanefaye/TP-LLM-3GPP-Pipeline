@@ -1,0 +1,6 @@
+# Checkpoints intermédiaires d entraînement (seuls les adaptateurs finaux sont gardés)
+checkpoints/
+
+# Python et Jupyter
+__pycache__/
+.ipynb_checkpoints/
